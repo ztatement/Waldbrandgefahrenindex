@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <tag>
+        <datum>11.03.2025</datum>
+        <landkreis name='Barnim'>2</landkreis>
+        <landkreis name='Dahme-Spreewald'>3</landkreis>
+        <landkreis name='Elbe-Elster'>3</landkreis>
+        <landkreis name='Havelland'>3</landkreis>
+        <landkreis name='Märkisch-Oderland'>2</landkreis>
+        <landkreis name='Oberhavel'>2</landkreis>
+        <landkreis name='Oberspreewald-Lausitz'>3</landkreis>
+        <landkreis name='Oder-Spree und Stadt Frankfurt/Oder'>3</landkreis>
+        <landkreis name='Ostprignitz-Ruppin'>2</landkreis>
+        <landkreis name='Potsdam-Mittelmark u. Städte Potsdam/Brandenburg'>3</landkreis>
+        <landkreis name='Prignitz'>2</landkreis>
+        <landkreis name='Spree-Neiße und Stadt Cottbus'>3</landkreis>
+        <landkreis name='Teltow-Fläming'>3</landkreis>
+        <landkreis name='Uckermark'>2</landkreis>
+    </tag>
+</data>
